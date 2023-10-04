@@ -1,6 +1,6 @@
 ### ¡Hola, soy Alejandro! 👋
 
-Un apasionado por la tecnologia con experiencia en **Angular**, **Django**. Me especializo en la creación de aplicaciones web modernas y robustas, siguiendo los principios SOLID en Angular y aplicando las mejores prácticas de desarrollo.
+Un apasionado por la tecnología con experiencia en **Angular** y **Django**. Me especializo en la creación de aplicaciones web modernas y robustas, siguiendo los principios SOLID en Angular y aplicando las mejores prácticas de desarrollo.
 
 🌐 Siempre estoy interesado en colaborar en proyectos interesantes y desafiantes que involucren estas tecnologías y en mejorar la experiencia del usuario a través de diseños elegantes y funcionales.
 
@@ -27,13 +27,9 @@ Un apasionado por la tecnologia con experiencia en **Angular**, **Django**. Me e
   <a href="https://angular.io/" target="_blank">
     <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
   </a>
-  &emsp;
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
-  </a>
 </p>
 
-### Desarrollo Frontend
+### Desarrollo Frontend y Diseño Responsivo
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -43,18 +39,6 @@ Un apasionado por la tecnologia con experiencia en **Angular**, **Django**. Me e
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
-
-### Diseño Responsivo
-<p align="center">
-  &emsp;
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
-  </a>
 </p>
 
 ## 🔄 Estado Actual
