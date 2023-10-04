@@ -12,8 +12,12 @@ Un apasionado por la tecnología con experiencia en **Angular** y **Django**. Me
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+   <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://rxjs-dev.firebaseapp.com/" target="_blank">
+    <img alt="RxJS" src="https://img.shields.io/badge/RxJS%20-%23B7178C.svg?style=plastic&logo=reactivex&logoColor=white">
   </a>
 </p>
 
@@ -26,6 +30,10 @@ Un apasionado por la tecnología con experiencia en **Angular** y **Django**. Me
   &emsp;
   <a href="https://angular.io/" target="_blank">
     <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
   </a>
 </p>
 
