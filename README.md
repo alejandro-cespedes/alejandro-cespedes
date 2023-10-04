@@ -1,6 +1,6 @@
 ### ¡Hola, soy Alejandro! 👋
 
-Soy Alejandro Cespedes, un apasionado desarrollador de software con experiencia en **Angular**, **Django**. Me especializo en la creación de aplicaciones web modernas y robustas, siguiendo los principios SOLID en Angular y aplicando las mejores prácticas de desarrollo.
+Un apasionado por la tecnologia con experiencia en **Angular**, **Django**. Me especializo en la creación de aplicaciones web modernas y robustas, siguiendo los principios SOLID en Angular y aplicando las mejores prácticas de desarrollo.
 
 🌐 Siempre estoy interesado en colaborar en proyectos interesantes y desafiantes que involucren estas tecnologías y en mejorar la experiencia del usuario a través de diseños elegantes y funcionales.
 
