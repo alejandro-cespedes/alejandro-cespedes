@@ -2,9 +2,9 @@
 
 Un apasionado por la tecnología con experiencia en **Angular** y **Django**. Me especializo en la creación de aplicaciones web modernas y robustas, siguiendo los principios SOLID en Angular y aplicando las mejores prácticas de desarrollo.
 
-**Edad:** 22 años
-
 🌐 Siempre estoy interesado en colaborar en proyectos interesantes y desafiantes que involucren estas tecnologías y en mejorar la experiencia del usuario a través de diseños elegantes y funcionales.
+
+**Edad:** 22 años
 
 ## 🛠️ Mis Habilidades
 ### Lenguajes de Programación
